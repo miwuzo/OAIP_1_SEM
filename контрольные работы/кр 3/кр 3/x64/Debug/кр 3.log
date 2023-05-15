@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\кр 3\кр 3\Source.cpp(10,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  кр 3.vcxproj -> E:\кр 3\x64\Debug\кр 3.exe
