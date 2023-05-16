@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\15-1\15-1\Source.cpp(23,3): error C2561: main: функция должна возвращать значение
+E:\15-1\15-1\Source.cpp(7): message : см. объявление "main"
+E:\15-1\15-1\Source.cpp(18,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
