@@ -1,0 +1,5 @@
+﻿  Source.cpp
+E:\12-2\12-2\Source.cpp(2,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+E:\12-2\12-2\Source.cpp(6,18): warning C4101: sum: неиспользованная локальная переменная
+E:\12-2\12-2\Source.cpp(6,33): warning C4101: size: неиспользованная локальная переменная
+  12-2.vcxproj -> E:\12-2\x64\Debug\12-2.exe
