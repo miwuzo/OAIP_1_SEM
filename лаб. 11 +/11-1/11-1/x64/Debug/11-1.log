@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\11-1\11-1\Source.cpp(4,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+E:\11-1\11-1\Source.cpp(6,9): warning C4101: i: неиспользованная локальная переменная
+  11-1.vcxproj -> E:\11-1\x64\Debug\11-1.exe
